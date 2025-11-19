@@ -37,7 +37,7 @@ export default function WalkAMileForPolio() {
             <a href="#impact" className="text-gray-700 hover:text-purple-600 transition">Impact</a>
             <a href="#details" className="text-gray-700 hover:text-purple-600 transition">Event Details</a>
           </div>
-          <button className="bg-gradient-to-r from-purple-600 to-pink-500 text-white px-6 py-2 rounded-full hover:shadow-lg transition transform hover:scale-105">
+          <button className="bg-gradient-to-r from-purple-700 to-pink-500 text-white px-6 py-2 rounded-full hover:shadow-lg transition transform hover:scale-105">
             Register Now
           </button>
         </div>
